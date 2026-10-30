@@ -10,7 +10,7 @@ Classifies incoming support requests by urgency, routes them, and logs every tic
 
 [Watch the demo](https://www.loom.com/share/e670de263f924fa39d605af233eea209)
 
-![Workflow canvas for the AI support ticket triage system](assets/canvas.png)
+![Workflow canvas for the AI support ticket triage system](canvas.png)
 
 **Tools:** n8n, OpenAI, Airtable, Slack
 
