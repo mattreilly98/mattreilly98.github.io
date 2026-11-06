@@ -5,18 +5,14 @@ I build AI automation systems in n8n that save small teams time on repetitive wo
 ## Projects
 
 ### AI Support Ticket Triage
-
 Classifies incoming support requests by urgency, routes them, and logs every ticket, so urgent ones are never buried.
+[Repo](https://github.com/mattreilly98/ai-support-ticket-triage) · [Demo](https://www.loom.com/share/e670de263f924fa39d605af233eea209)
 
-[Watch the demo](https://www.loom.com/share/e670de263f924fa39d605af233eea209)
 
-![Workflow canvas for the AI support ticket triage system](canvas.png)
+### AI Appointment Booking Assistant
+Turns a plain-English booking request into a confirmed Google Calendar event, or offers three alternatives if the slot is taken. Built with n8n, OpenAI, Google Calendar and Gmail.
+[Repo](https://github.com/mattreilly98/ai-appointment-booking-assistant) · [Demo](https://www.loom.com/share/f9f3f36a26a947a8acefbe4ca534a2aa))
 
-**Tools:** n8n, OpenAI, Airtable, Slack
-
-**Results:** urgency matched my expected label on 9 of 9 test tickets, and each ticket takes about 2 to 7 seconds.
-
-[Read the full case study](https://github.com/mattreilly98/ai-support-ticket-triage)
 
 ## Contact
 
